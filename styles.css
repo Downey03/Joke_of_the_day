@@ -1,0 +1,17 @@
+
+*{
+    background-color: #c2c0c0;
+}
+
+.answer{
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    background-color: whitesmoke;
+    border: 5px solid black;
+    border-radius: 10px;
+    font-family: poppins;
+}
